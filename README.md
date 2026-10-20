@@ -21,3 +21,7 @@ setup for running Ghost of Tsushima on macOS.
 This project is unofficial and is not affiliated with the game's
 publisher or developers. Commercial game files are not included.
 Use only game files you are legally authorized to use.
+
+## ** Important
+
+first up all unzip the file and replace the original exe file with this exe file 
